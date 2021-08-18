@@ -1,3 +1,3 @@
 
-       welcome to the world of Java....
+       welcome to the world of Java
 	
